@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+}
+
+.block{
+    width: 100px;
+    height: 100px;
+    background: rgba(123, 94, 64, 0.561);
+    position: relative;
+    left: 0;
+    top: 0;
+    transition: 0.5s;
+}
